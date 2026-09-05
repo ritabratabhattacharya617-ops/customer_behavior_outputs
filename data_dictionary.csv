@@ -1,0 +1,13 @@
+Field,Description
+Field,Description
+Customer ID,Customer identifier
+Purchase Date,Transaction timestamp
+Product Category,Purchased category
+Product Price,Product price
+Quantity,Units purchased
+Total Purchase Amount,Transaction value
+Payment Method,Payment channel
+Customer Age,Customer age
+Returns,Return indicator; missing treated as 0
+Gender,Customer gender
+Churn,Dataset-provided churn label

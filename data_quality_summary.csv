@@ -1,0 +1,10 @@
+metric,value
+Raw rows,250000
+Raw columns,13
+Duplicates,0
+Missing Returns,47382
+Cleaned rows,250000
+Unique customers,49661
+Date start,2020-01-01 00:07:26
+Date end,2023-09-13 18:42:49
+Churn label rate,0.19993556311793964
